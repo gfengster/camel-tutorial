@@ -1,6 +1,5 @@
 ##Apache Camel Tutorial
 
-```
 Apcehe Camel - Introduction
 Apache Camel - Hello World
 Apache Camel - File Copy
@@ -35,4 +34,3 @@ Apache Camel - Rest Integration with CFX
 Apache Camel - SOAP Integration with CFX 
 Apache Camel - Creating the custom components
 Apache Camel - Error Handling
-```
